@@ -1,7 +1,7 @@
 
 import React from 'react';
 import { HashRouter as Router, Routes, Route } from 'react-router-dom';
-import Layout from './components/Layout';
+import Layout from './components/Layout.tsx';
 import ChatWidget from './components/ChatWidget';
 import Home from './pages/Home';
 import Store from './pages/Store';
